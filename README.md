@@ -7,5 +7,6 @@ O objetivo da aplicação foi configurar o ambiente de desenvolvimento e impleme
 
 ## Ferramentas utlizadas
 
+- Sucrase: O Sucrase é uma alternativa ao Babel que permite um desenvolvimento muito rápido.
 - Eslint : ferramenta de lint plugável para JavaScript e JSX.
 - Prettier: formatador de código que visa a organização e padronização de códigos
